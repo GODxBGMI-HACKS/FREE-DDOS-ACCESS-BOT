@@ -4,6 +4,7 @@ from telegram.ext import MessageHandler, Filters
 
 # Replace with your bot's API token
 TOKEN = '7153969610:AAEJL8OImaL2A75BrW2JLoPh3lJcME_fKXg'
+YOUR_ADMIN_USER_ID = {"1132426169"}
 # Replace with your channel and group chat IDs
 CHANNEL_ID = '@GODxBGMI_HACKS'
 GROUP_CHAT_ID = '@GODxBGMI_CHATGROUP'
